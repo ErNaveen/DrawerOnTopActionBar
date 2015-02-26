@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="nav_items">
+        <item>First</item>
+        <item>Secand</item>
+        <item>Share</item>
+        <item>Rate</item>
+        <item>More Apps</item>
+        <item>About</item>
+    </string-array>
+</resources>
